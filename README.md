@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atharv Mankar.
+- 👋 Hi, I’m Atharv Mankar.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React framework.
 - 📫 How to reach me => Linkedin - https://www.linkedin.com/in/atharvmankar/
