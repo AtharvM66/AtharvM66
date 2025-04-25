@@ -1,5 +1,5 @@
 - Computer Engineer.
-- Resume => bit.ly/Master_Resume
+- Resume => https://bit.ly/Master_Resume
 - How to reach me => https://www.linkedin.com/in/atharvmankar/
 - Leetcode => https://leetcode.com/u/AtharvKing/
 
